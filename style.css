@@ -9,6 +9,9 @@ body
 .header
 {
 	padding: 68px 68px 72px 69px;
+	max-width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
 }
 .minimo
 {
@@ -63,6 +66,9 @@ body
 {
 	padding-left: 70px;
 	padding-right: 69px;
+	max-width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
 }
 .image
 {
@@ -185,4 +191,10 @@ body
 {
 	text-decoration:none;
 	font-size: 14px;
+}
+.container
+{
+	max-width: 1366px;
+	margin-right: auto;
+	margin-left: auto;
 }
